@@ -9,12 +9,6 @@
 -   📱 Responsive Design: The app is designed to adapt to various screen sizes, ensuring a consistent experience across devices.
 
 
-2. Navigate to the project directory:
-
-```bash
-cd react-python-tutorial
-```
-
 
  Create a virtual environment:
 
